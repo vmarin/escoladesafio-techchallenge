@@ -1,7 +1,7 @@
 {
-  "name": "escoladesafio-techchallenge",
+  "name": "tab-challenge",
   "version": "1.0.0",
-  "description": "Projeto Tech Challenge realizado para a Pós Tech FIAP - Full Stack Development.",
+  "description": "Projeto utilizado para estudos no curso.dev.",
   "main": "index.js",
   "scripts": {
     "dev": "next dev"
